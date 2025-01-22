@@ -6,7 +6,7 @@ Acesse o modelo em https://docs.google.com/spreadsheets/d/1TTa5b8et3XsPlQnqp_RxM
 Manipulação simples de dados
 Fórmulas condicional 
 Adaptável 
-![image](https://github.com/user-attachments/assets/b10d0319-d758-47b6-8656-e6ccc53d0246)
+
 ![Uploading image.png…]()
 
 Projeto desenvolvido para o almoxarifado da Secretaria de Estado de Saúde Minas Gerais  (2023)
